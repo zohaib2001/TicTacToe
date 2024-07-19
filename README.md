@@ -1,5 +1,3 @@
-# tic_tac_toe
-
 ## Tic-Tac-Toe Game
 
 Welcome to this Python Tic-Tac-Toe game, brought to life using Python's tkinter library.
