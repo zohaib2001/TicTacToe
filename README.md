@@ -1,2 +1,10 @@
 # tic_tac_toe
-Welcome to my simple yet elegant Tic-Tac-Toe game, brought to life using Python's tkinter library. Whether you want to challenge a friend or test your skills against the computer, this game has got you covered. With its vibrant, checkered board and intuitive interface, it's designed to be as enjoyable to look at as it is to play.
+
+## Tic-Tac-Toe Game
+
+Welcome to this Python Tic-Tac-Toe game, brought to life using Python's tkinter library.
+
+## Features
+Two Modes: Choose to play with a friend or go head-to-head with the computer.
+Visually Appealing: Enjoy a clean, checkered board with clear, color-coded buttons that make every move stand out.
+Easy Reset: Start a new game or swtich modes after every game with a simple board reset.
